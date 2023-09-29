@@ -1,1 +1,1 @@
-# Power-BI-Project
+This project aims to analyze road accident data using Power BI, providing valuable insights for policymakers, law enforcement agencies, and the general public. By visualizing and interpreting accident trends, hotspots, and contributing factors, we aim to promote road safety and reduce accidents.# Power-BI-Project
